@@ -1,1 +1,1 @@
-# Museum_sql_project
+# Paintings Museum Data Analysis using SQL
